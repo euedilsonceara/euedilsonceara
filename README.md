@@ -5,7 +5,7 @@
 
 📗   Atualmente estudando tecnologias Front-End e Python
   
-💻   Tenho familiaridade com HTML, CSS, Java Script e Python
+💻   Tenho familiaridade com HTML, CSS, JavaScript e Python
 
 
 <div align="center">
