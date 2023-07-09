@@ -1,9 +1,9 @@
 ## Seja bem vindo(a)!! Eu sou Edilson Ceará 👋
 
 
-Graduando em Engenharia da Computação
-Analista de Dados
-Tenho familiaridade com as tecnologias SQL, Python, Power BI e Excel
+* Graduando em Engenharia da Computação
+* Analista de Dados
+* Tenho familiaridade com as tecnologias SQL, Python, Power BI e Excel
 
 
 <div align="center">
