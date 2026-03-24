@@ -1,7 +1,7 @@
 ## Seja bem vindo(a)!! Eu sou Edilson Ceará 👋
 
 
-* Graduando em Engenharia da Computação (9º Semestre)
+* Engenheiro da Computação
 * Analista de Dados
 * Power BI, SQL, Python, Excel, ETL, Modelagem de Dados
 
